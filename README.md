@@ -53,7 +53,7 @@ PCA finds orthogonal directions of maximal variance (eigenvectors of covariance 
 
 INPUT : 
 
-# EXPRIMENT 6
+# EXPERIMENT 6
 from sklearn.decomposition import PCA
 from sklearn.datasets import load_iris
 import matplotlib.pyplot as plt

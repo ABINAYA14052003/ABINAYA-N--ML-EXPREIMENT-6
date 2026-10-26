@@ -49,7 +49,7 @@ PCA finds orthogonal directions of maximal variance (eigenvectors of covariance 
 
 
 
-
+```
 
 INPUT : 
 
@@ -76,6 +76,7 @@ plt.ylabel('PC2'); plt.title('PCA of Iris'); plt.show()
 
 OUTPUT:
 
+```
 <img width="578" height="455" alt="image" src="https://github.com/user-attachments/assets/ca7e8b66-1413-4f00-a399-b92794c78ece" />
 
 
